@@ -1,0 +1,1 @@
+﻿<%@ Page Language="VB" AutoEventWireup="false" CodeFile="Tempdata.aspx.vb" Inherits="Tempdata" %>
